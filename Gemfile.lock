@@ -180,7 +180,7 @@ DEPENDENCIES
   tty-spinner
   tzinfo-data
   uglifier (~> 2.6.1)
-  webpacker (~> 3.3.1)
+  webpacker
 
 RUBY VERSION
    ruby 2.4.7p357
