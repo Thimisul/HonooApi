@@ -9,7 +9,16 @@
 
 console.log('Hello World from Webpacker')
 
-    //= require jquery
-    //= require rails-ujs
-    //= require activestorage
-    //= require_tree .
+//= require jquery/dist/jquery.js
+
+//= require rails-ujs
+
+//= require activestorage
+
+//= require turbolinks
+
+//= require notify-js-legacy/notify
+
+//= require popper.js
+
+//= require bootstrap/dist/js/bootstrap
